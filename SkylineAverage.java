@@ -1,6 +1,5 @@
 package sliding_window;
 
-package Day4;
 
 // You are an architect designing a street with houses represented as a 0-indexed array 
 // house_heights of n integers, where each element represents the height of a house. 
